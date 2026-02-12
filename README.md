@@ -9,6 +9,8 @@
 
 <!-- 🙏🏻 Animated welcome GIF -->
 <h2 align="center">
+  
+
   <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
 </h2>
 
@@ -18,9 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akintayo-oluwakorede-422387160)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/johnfit47)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/oluwakorede01)
-)
-
-
 
 <br/>
 
