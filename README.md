@@ -7,8 +7,6 @@
 
 <br/>
 
-<br/>
-
 <!-- 🙏🏻 Animated welcome GIF -->
 <h2 align="center">
   
