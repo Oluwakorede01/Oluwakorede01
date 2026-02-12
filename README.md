@@ -1,20 +1,20 @@
-<!-- 💖 Typing animation introduction -->
+<!--  🔥Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=6CA651&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Khushi+Chetule!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=6CA651&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Akintayo+Oluwakoredee!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
   </a>
 </div>
 
 <br/>
 
-<!-- 💜 Animated welcome GIF -->
+<!-- 🙏🏻 Animated welcome GIF -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
 </h2>
 
 <br/>
 
-<!-- 💛 Social badges -->
+<!-- 💻 Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akintayo-oluwakorede-422387160)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/johnfit47)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/oluwakorede01)
@@ -52,7 +52,7 @@
 </details>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushichetule09&label=Visitors&color=181717&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwakorede01&label=Visitors&color=181717&style=flat" /> </p>
 
 <br>
 <picture>
@@ -62,4 +62,4 @@
 <br>
 
 <!-- 💖 Contact -->
-### You can reach me at: **<khushichetule2@gmail.com>**
+### You can reach me at: **<akinpelu.oluwakorede@gmail.com>**
